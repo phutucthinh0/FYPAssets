@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/biggift1" android:duration="50" />
+    <item android:drawable="@drawable/biggift2" android:duration="50" />
+    <item android:drawable="@drawable/biggift3" android:duration="50" />
+    <item android:drawable="@drawable/biggift4" android:duration="50" />
+    <item android:drawable="@drawable/biggift5" android:duration="50" />
+    <item android:drawable="@drawable/biggift6" android:duration="50" />
+    <item android:drawable="@drawable/biggift7" android:duration="50" />
+    <item android:drawable="@drawable/biggift8" android:duration="50" />
+    <item android:drawable="@drawable/biggift9" android:duration="50" />
+    <item android:drawable="@drawable/biggift10" android:duration="50" />
+    <item android:drawable="@drawable/biggift11" android:duration="50" />
+    <item android:drawable="@drawable/biggift12" android:duration="50" />
+    <item android:drawable="@drawable/biggift13" android:duration="50" />
+    <item android:drawable="@drawable/biggift14" android:duration="50" />
+    <item android:drawable="@drawable/biggift15" android:duration="50" />
+    <item android:drawable="@drawable/biggift16" android:duration="50" />
+    <item android:drawable="@drawable/biggift17" android:duration="50" />
+    <item android:drawable="@drawable/biggift18" android:duration="50" />
+    <item android:drawable="@drawable/biggift19" android:duration="50" />
+    <item android:drawable="@drawable/biggift20" android:duration="50" />
+    <item android:drawable="@drawable/biggift21" android:duration="50" />
+    <item android:drawable="@drawable/biggift22" android:duration="50" />
+    <item android:drawable="@drawable/biggift23" android:duration="50" />
+    <item android:drawable="@drawable/biggift24" android:duration="50" />
+    <item android:drawable="@drawable/biggift25" android:duration="50" />
+    <item android:drawable="@drawable/biggift26" android:duration="50" />
+    <item android:drawable="@drawable/biggift27" android:duration="50" />
+    <item android:drawable="@drawable/biggift28" android:duration="50" />
+    <item android:drawable="@drawable/biggift29" android:duration="50" />
+    <item android:drawable="@drawable/biggift30" android:duration="50" />
+    <item android:drawable="@drawable/biggift31" android:duration="50" />
+    <item android:drawable="@drawable/biggift32" android:duration="50" />
+    <item android:drawable="@drawable/biggift33" android:duration="50" />
+    <item android:drawable="@drawable/biggift34" android:duration="50" />
+    <item android:drawable="@drawable/biggift35" android:duration="50" />
+    <item android:drawable="@drawable/biggift36" android:duration="50" />
+    <item android:drawable="@drawable/biggift37" android:duration="50" />
+    <item android:drawable="@drawable/biggift38" android:duration="50" />
+    <item android:drawable="@drawable/biggift39" android:duration="50" />
+    <item android:drawable="@drawable/biggift40" android:duration="50" />
+    <item android:drawable="@drawable/biggift41" android:duration="50" />
+    <item android:drawable="@drawable/biggift42" android:duration="50" />
+</animation-list>
